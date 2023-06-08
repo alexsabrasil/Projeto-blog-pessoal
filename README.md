@@ -1,3 +1,8 @@
+<h1 align="center">Olá, bem vindo(a)! 👋</h1>
+
+## <img align="justify-center" width="990" height="500" src="https://i.im.ge/2023/06/06/hWDFO9.print-blog-pessoal-final-react.png" alt="banner-2" border="0">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
